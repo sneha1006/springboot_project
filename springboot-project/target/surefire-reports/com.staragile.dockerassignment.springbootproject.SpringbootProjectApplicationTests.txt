@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.staragile.dockerassignment.springbootproject.SpringbootProjectApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.344 s - in com.staragile.dockerassignment.springbootproject.SpringbootProjectApplicationTests
